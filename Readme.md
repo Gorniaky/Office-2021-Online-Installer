@@ -2,8 +2,8 @@
 
 | Files | SHA1 | Virustotal |
 | --- | --- | --- |
-| Office 2021 Online Installer.cmd | 55568ddd7c24c0e177aa65d8c83f69b4ae2e38cf | 0/57 2021-09-07 22:24:42 UTC |
-| setup.exe | 9e41855c6d75fb00ddb19ba98b2d08f56932e447 | 0/69 2021-06-06 08:26:46 UTC |
+| Office 2021 Online Installer.bat | 622ebddecb90a83bb2f78481e16b301faaf243c9 | 0/55 2021-11-19 21:58:44 UTC |
+| setup.exe | 855674e64ea03f3b882fd7f2e355af062c381471 | 0/66 2021-11-19 16:00:14 UTC |
 
 - File Sources:
 
@@ -15,7 +15,7 @@
  <https://msguides.com>
 
  Product keys
- <https://docs.microsoft.com/deployoffice/office2021/install-ltsc-preview>
+ <https://docs.microsoft.com/deployoffice/ltsc2021>
 
 - Online Public KMS Servers:
 
@@ -24,13 +24,15 @@
  kms8.MSGuides.com
  kms9.MSGuides.com
  s8.now.im
+ s8.uk.to
  s9.now.im
+ sv9.uk.to
 
 | Product key for KMS activation | Product |
 | --- | --- |
-| HFPBN-RYGG8-HQWCW-26CH6-PDPVF | Office LTSC Professional Plus 2021 Preview |
-| 2NYG6-3BBBX-M97JW-B7DFV-G6RMB | Project Professional 2021 Preview |
-| M9N3Y-CCB6D-J66FD-KKGF4-8B799 | Visio Professional 2021 Preview |
+| FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH | Office LTSC Professional Plus 2021 |
+| FTNWT-C6WBT-8HMGF-K9PRX-QV9H8 | Project Professional 2021 |
+| KNH8D-FGHT4-T8RK3-CTDYJ-K2HT4 | Visio LTSC Professional 2021 |
 
 Credits
 
