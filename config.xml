@@ -5,6 +5,7 @@
          <ExcludeApp ID="Teams" />
      </Product>
   </Add>
-  <RemoveMSI />
+  <Remove All="True" />
+  <RemoveMSI All="True" />
   <Display AcceptEULA="TRUE" />
 </Configuration>
